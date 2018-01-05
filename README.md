@@ -1,1 +1,13 @@
 # java8-new-feature
+- TestCompletableFuture: java8异步编程利器
+- TestDefaultMethod: java8默认方法
+- TestException: java8 lambda异常
+- TestFunctionalInterface: java8 函数式接口
+- TestGenerateStream: java8构造stream
+- TestLocalDateTime: java8 时间日期
+- TestOperateEndStream: java8 流操作终点节点
+- TestOperateMiddleStream: java8 流操作中间节点
+- TestOtherNewFeature: java8 小feature
+- TestParallelStream: java8 并行流处理
+- TestPerformanceBenchmark: java8 性能测试
+- TestStampedLock: java8更高级的锁
